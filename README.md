@@ -1,4 +1,4 @@
-# CodSoft
+# CODSOFT
 👋 Welcome to the CodSoft repository!
 
 This repository is dedicated to showcasing the technical tasks completed during my internship.
